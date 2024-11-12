@@ -1,3 +1,5 @@
+#pip install python-barcode pillow
+
 import barcode
 from barcode.writer import ImageWriter
 
